@@ -1,0 +1,13 @@
+{
+    "name": "romainpathe/breadcrumbs-bundle",
+    "type": "symfony-bundle",
+    "require": {
+        "symfony/framework-bundle": "^7.1"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Romainpathe\\BreadcrumbsBundle\\": "src/"
+        }
+    }
+}
