@@ -2,7 +2,8 @@
     "name": "romainpathe/breadcrumbs-bundle",
     "type": "symfony-bundle",
     "require": {
-        "symfony/framework-bundle": "^7.1"
+        "symfony/framework-bundle": "^7.1",
+        "symfony/ux-twig-component": "^2.18"
     },
     "license": "MIT",
     "autoload": {
